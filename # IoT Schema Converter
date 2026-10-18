@@ -1,0 +1,1 @@
+A Python script designed to normalize and convert IoT JSON records. It uses mapping files to translate target fields and source paths, supporting various data format transformations.
